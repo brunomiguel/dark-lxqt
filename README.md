@@ -5,4 +5,4 @@ Based on [arc-dark](https://gitlab.com/isseigx/lxqt-arc-dark-theme/) but with da
 ## Bug-reports and pull-requests
 These are much appreciated. Feel free to contribute to this theme :)
 
-![screenshot](1.png "Screenshot")
+![screenshot](screenshot.jpg "Screenshot")
